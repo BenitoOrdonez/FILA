@@ -1,0 +1,11 @@
+{
+    "nombre": "Nombre de la Institución",
+    "admin_user": "admin",
+    "admin_pass": "$2y$10$UnHashDeEjemploAqui...",
+    "display_user": "display",
+    "display_pass": "$2y$10$UnHashDeEjemploAqui...",
+    "areas": [
+        "General"
+    ],
+    "users": []
+}

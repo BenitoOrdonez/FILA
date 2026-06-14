@@ -1,0 +1,67 @@
+{
+    "ultimo_numero": 0,
+    "tickets": [
+        {
+            "id": "1805-GEN-001",
+            "hash": "0d7644c321",
+            "nombre": "Juan",
+            "rut": "98765432-1",
+            "tramite": "General",
+            "estado": "atendido",
+            "creado": "21:33:12",
+            "atendido_por": "roro",
+            "hora_atencion": "21:33:19",
+            "observaciones": "ok",
+            "hora_salida": "21:34:25",
+            "calificacion": 5,
+            "comentario_ciudadano": "excelente"
+        },
+        {
+            "id": "1805-GEN-002",
+            "hash": "f8f852ee12",
+            "nombre": "Pedro",
+            "rut": "98765432-1",
+            "tramite": "General",
+            "estado": "atendiendo",
+            "creado": "21:33:39",
+            "atendido_por": "roro",
+            "hora_atencion": "21:34:59"
+        },
+        {
+            "id": "1805-GEN-003",
+            "hash": "691c0c76a7",
+            "nombre": "Diego",
+            "rut": "98765432-1",
+            "tramite": "General",
+            "estado": "esperando",
+            "creado": "21:34:01"
+        },
+        {
+            "id": "1805-GEN-004",
+            "hash": "0b4ca19fac",
+            "nombre": "Pepe",
+            "rut": "98765432-1",
+            "tramite": "General",
+            "estado": "esperando",
+            "creado": "21:37:09"
+        },
+        {
+            "id": "1805-DIR-001",
+            "hash": "f084d81076",
+            "nombre": "Maria",
+            "rut": "98765432-1",
+            "tramite": "Direcci\u00f3n",
+            "estado": "atendido",
+            "creado": "21:37:31",
+            "atendido_por": "wil",
+            "hora_atencion": "21:54:44",
+            "observaciones": "ok",
+            "hora_salida": "21:55:19",
+            "calificacion": 3,
+            "comentario_ciudadano": ""
+        }
+    ],
+    "stats": {
+        "total": 5
+    }
+}

@@ -1,0 +1,72 @@
+:root {
+    --primary: #0056b3;
+    --success: #28a745;
+    --dark: #333;
+    --light: #f4f4f9;
+}
+
+body { 
+	font-family: 'Segoe UI', sans-serif; 
+	background: var(--light); 
+	margin: 0; 
+	padding: 20px; 
+}
+.container { 
+	max-width: 500px; 
+	margin: auto; 
+	background: white; 
+	padding: 2rem; 
+	border-radius: 12px; 
+	box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
+}
+
+h1 { 
+	color: var(--primary); 
+	text-align: center; 
+	font-size: 1.5rem; 
+}
+
+label { 
+	display: block; 
+	margin-top: 1rem; 
+	font-weight: bold; 
+}
+input, select { 
+	width: 100%; 
+	padding: 12px; 
+	margin-top: 5px; 
+	border: 1px solid #ddd; 
+	border-radius: 6px; 
+	box-sizing: border-box; 
+}
+
+.btn-primary { 
+	width: 100%; 
+	background: var(--primary); 
+	color: white; 
+	border: none; 
+	padding: 15px; 
+	border-radius: 6px; 
+	margin-top: 1.5rem; 
+	cursor: pointer; 
+	font-size: 1rem; 
+	font-weight: bold; 
+}
+
+.card-ticket { 
+	text-align: center; 
+	padding: 20px; 
+	border: 2px dashed var(--primary); 
+	border-radius: 10px; 
+	margin-top: 20px; 
+}
+.id-text { 
+	font-size: 1.8rem; 
+	color: var(--primary); 
+	display: block; 
+	margin: 10px 0; 
+}
+
+@media (max-width: 480px) {
+    .container { padding: 1rem; }
+}

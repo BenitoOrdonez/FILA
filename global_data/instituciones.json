@@ -1,0 +1,15 @@
+{
+    "super_admin": {
+        "user": "admin_maestro",
+        "pass": "$2y$10$KikLg9c1TFTsQgxKgeETXO1Fo9D7HiZOQ9KWk2bcMumuWS62tuEnO"
+    },
+    "instituciones": [
+        {
+            "nombre": "farmacia",
+            "slug": "farm",
+            "admin_user": "farm_admin",
+            "estado": "activo",
+            "fecha": "2026-05-18"
+        }
+    ]
+}

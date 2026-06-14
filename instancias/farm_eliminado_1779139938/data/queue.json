@@ -1,0 +1,23 @@
+{
+    "ultimo_numero": 0,
+    "tickets": [
+        {
+            "id": "1805-GEN-001",
+            "hash": "67ed061fdb",
+            "nombre": "Juan",
+            "rut": "98765432-1",
+            "tramite": "General",
+            "estado": "atendido",
+            "creado": "21:25:35",
+            "atendido_por": "roro",
+            "hora_atencion": "21:25:59",
+            "observaciones": "ok",
+            "hora_salida": "21:26:23",
+            "calificacion": 5,
+            "comentario_ciudadano": "excelente"
+        }
+    ],
+    "stats": {
+        "total": 1
+    }
+}

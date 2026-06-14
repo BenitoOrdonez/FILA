@@ -1,0 +1,27 @@
+{
+    "nombre_institucion": "farmacia",
+    "admin_user": "farm_admin",
+    "admin_pass": "$2y$10$LRZ7jiY9fmypxEik0D7XtOyPdENExwF73/9EeDHfRTbDhZegGXbZ.",
+    "display_user": "display",
+    "display_pass": "$2y$10$UnHashDeEjemploAqui...",
+    "areas": [
+        "General",
+        "Direcci\u00f3n"
+    ],
+    "users": [
+        {
+            "user": "roro",
+            "nombre": "Rodrigo",
+            "area": "General",
+            "pass": "$2y$10$pPWuHRaqOtNB0Dt/54DIgOZl5rkn10oqXB5ukP6M1SRD.uCEmTDTS",
+            "role": "staff"
+        },
+        {
+            "user": "wil",
+            "nombre": "wilfried",
+            "area": "Direcci\u00f3n",
+            "pass": "$2y$10$SMoLwPYzvFzDtpAG8f6hD.z0yMEg/7Lue7AKwQFVt9wA8nElxVB3y",
+            "role": "staff"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "nombre_institucion": "farmacia",
+    "admin_user": "farm_admin",
+    "admin_pass": "$2y$10$kGdfQbol2IJULdJ5qSppT.muJ/8.VPCE65tjrcfrWCwzsT/WDDMYW",
+    "areas": [
+        "General"
+    ],
+    "users": [
+        {
+            "user": "roro",
+            "nombre": "Rodrigo",
+            "area": "General",
+            "pass": "$2y$10$9tOtF1SsMaH1CWqx3X8bF.PE.3dIQUsp1zdXSxdso0hWFD15az0sS",
+            "role": "staff"
+        }
+    ]
+}
